@@ -6,9 +6,6 @@ order: 4
 permalink: /whoami/
 ---
 
-#> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-#{: .prompt-tip }
-
 Hi, I'm **Marc ALI**, a Computer Science student from **Côte d'Ivoire**.
 
 I am passionate about technology and continuous learning. My interests include software development, Linux, language learning, entrepreneurship, and technology research.
