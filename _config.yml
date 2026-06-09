@@ -9,17 +9,17 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: Africa/Abidjan
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: akimsjourney # the main title
 
-tagline: AKIM's Journey # it will display as the subtitle 
+tagline: IT Student & Software Engineering Enthusiast # it will display as the subtitle 
 
 description: >- # used by seo meta and the atom feed
-  My learning journey. 
+  Personal blog of MARC ALI.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: AKIM
+  name: MARC ALI
   email: akim@akimsjourney.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
