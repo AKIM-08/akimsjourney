@@ -25,10 +25,10 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/kobenan-ali-15594a370/'   
   noblank: false               # Fill with your Linkedin homepage
-  
-- type: neetcode
-  icon: fas fa-code  # Une icône de code propre
-  url: https://neetcode.io/profile/akim/  # Remplace par ton lien quand il sera prêt
+
+#- type: neetcode
+#  icon: fas fa-code  # Une icône de code propre
+#  url: https://neetcode.io/profile/akim/  # Remplace par ton lien quand il sera prêt
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
