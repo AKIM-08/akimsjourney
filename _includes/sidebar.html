@@ -31,14 +31,14 @@
 
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
     {% unless site.theme_mode %}
-      <button type="button" class="btn btn-link nav-link me-2" aria-label="Switch Mode" id="mode-toggle">
-        <i class="fas fa-adjust"></i>
-      </button>
+     <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle" style="margin-right: 12px !important;">
+       <i class="fas fa-adjust"></i>
+     </button>
 
-      {% if site.data.contact.size > 0 %}
-        <span class="icon-border mx-3"></span>
-      {% endif %}
-    {% endunless %}
+     {% if site.data.contact.size > 0 %}
+       <span class="icon-border" style="margin-left: 12px !important; margin-right: 20px !important;"></span>
+     {% endif %}
+   {% endunless %}
 
     {% for entry in site.data.contact %}
       {%- assign url = null -%}
