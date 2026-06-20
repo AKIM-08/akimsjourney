@@ -34,7 +34,7 @@ At the moment, I am focusing on:
 - Studying UML and Software Engineering
 - Strengthening my knowledge of Algorithms and Data Structures
 - Learning Laravel, Vue.js, and PostgreSQL
-- Preparing for for admission to top international universities
+- Preparing for admission to top international universities
 
 ## Why This Website?
 
