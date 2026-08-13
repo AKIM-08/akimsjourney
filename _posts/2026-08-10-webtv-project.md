@@ -7,8 +7,6 @@ tags: [WebTV, OBS Studio, Streaming, PostgreSQL]
 ---
 
 
-# WebTV Project
-
 Two weeks ago, my PHP teacher asked me to build a project with three of my classmates. 
 
 He told us to build a WebTV, honestly that was my first time to hear about it. 
