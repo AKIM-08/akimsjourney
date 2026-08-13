@@ -36,7 +36,7 @@ As the project lead, I also had to make sure that different parts of the applica
 ![Sign up issue](../assets/img/posts_images/WebTV/Sign_up_issue.jpeg)
 
 
-I found that the issue that the issue was caused by a debugging line that was logging the form data to the browser console : 
+I found that the issue was caused by a debugging line that was logging the form data to the browser console : 
 
 ```javascript
 console.log("Envoi des données:", formData);
