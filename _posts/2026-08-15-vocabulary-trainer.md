@@ -13,7 +13,7 @@ That was an incredible decision because I met amazing people, and now I'm able t
 
 Lately, I decided to assist some friends in their English-learning journey. 
 
-When I started learning English, I learned the **50 most common words in English** with their French translations. I later figured out that it wasn't the best way to learn vocabulary.
+When I started learning English, I learned the **500 most common words in English** with their French translations. I later figured out that it wasn't the best way to learn vocabulary.
 
 I really think that learning words through images can be more effective than translating them into our native languages. 
 
