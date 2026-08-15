@@ -16,7 +16,7 @@ Throughout tis Journey, I'll be documenting :
 - my experiences
 - and my challenges
 
-This platform is not a portfolio. it's a personal blog.
+This platform is not a portfolio. It's a personal blog.
 
 I want to inspire people who struggle with hard work and staying committed to their goals. I also want to prove to myself that I'm capable of achieving what I say I'll do - by showing up even when I don't feel like it. 
 

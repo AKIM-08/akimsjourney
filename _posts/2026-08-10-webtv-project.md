@@ -31,7 +31,7 @@ My friends worked on :
 - [x] The APIs
 - [x] The business logic
 
-As the project lead, I also had to make sure that different parts of the application worked together properly from end to end and I discovered a serious security issue. When someone tried to sign up, their data are being displayed in the browseer console, including their email and password.
+As the project lead, I also had to make sure that different parts of the application worked together properly from end to end and I discovered a serious security issue. When someone tried to sign up, their data was being displayed in the browser console, including their email and password.
 
 ![Sign up issue](../assets/img/posts_images/WebTV/Sign_up_issue.jpeg)
 
