@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dotfiles Arch Linux"
-date: 2026-08-15 12:20:00 +0000
+date: 2026-09-13 21:20:00 +0000
 categories: [Projects]
 tags: [Arch Linux, Linux, Dotfiles, CLI]
 ---
